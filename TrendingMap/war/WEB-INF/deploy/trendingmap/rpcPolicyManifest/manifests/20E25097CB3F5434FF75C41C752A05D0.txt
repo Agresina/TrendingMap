@@ -1,0 +1,2 @@
+serviceClass: trendingmap.client.GreetingService
+path: 3EDE9B6C7D82C3B29EC1F865DD41AF46.gwt.rpc
