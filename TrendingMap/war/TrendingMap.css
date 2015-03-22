@@ -2,33 +2,36 @@
 
 
 /** Example rules used by the template application (remove for your app) */
+	
+body {
+	background-color:#FDFDFD;
+}
+
 h1 {
   font-size: 2em;
   font-weight: bold;
-  color: #777777;
+  color: #297CCF;
   margin: 40px 0px 70px;
   text-align: center;
 }
 
-.sendButton {
-  display: block;
-  font-size: 16pt;
+h2 {
+	color: #297CCF;
 }
 
-/** Most GWT widgets already have a style name defined */
-.gwt-DialogBox {
-  width: 400px;
+h3 {
+	color: #297CCF;
+	text-indent: 50px;
 }
 
-.dialogVPanel {
-  margin: 5px;
+h4 {
+	color: #297CCF;
 }
 
-.serverResponseLabelError {
-  color: red;
-}
-
-/** Set ids using widget.getElement().setId("idOfElement") */
-#closeButton {
-  margin: 15px 6px 6px;
+p {
+	text-indent: 20px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 5px;
 }
