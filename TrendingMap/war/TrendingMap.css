@@ -10,6 +10,10 @@ body {
 .logo {
 	margin-left:auto;
 	margin-right:auto;
+	/*margin-top: 195px;*/
+	margin-left: 200px;
+	left:50%;
+	top:50%;
 }
 
 h1 {
