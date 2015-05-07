@@ -9,5 +9,11 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="org.codehaus.jackson.core.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.codehaus.jackson.mapper.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.restlet.ext.gae.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.restlet.ext.jackson.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.restlet.ext.net.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.restlet.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
